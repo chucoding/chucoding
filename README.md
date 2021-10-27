@@ -1,6 +1,6 @@
 ### 안녕하세요 외계공룡 입니다. 👋
 
-![외계공룡's GitHub stats](https://github-readme-stats.vercel.app/api?username=chucoding&show_icons=true&theme=radical)
+![외계공룡's GitHub stats](https://github-readme-stats.vercel.app/api?username=chucoding&show_icons=true&theme=vue-dark)
 
 <!--
 **chucoding/chucoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
