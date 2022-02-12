@@ -1,5 +1,5 @@
 # Hyeonseok Suh : AI Researcher 
-![header](https://capsule-render.vercel.app/api?type=waving&color=#B897FF&height=300&section=header&text=hyeonseokSuh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=chucoding&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hyeonseokSuh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=chucoding&descAlignY=51&descAlign=62)
 <p align='center'> 안녕하세요 외계공룡 입니다. 👋   </p>
 
 Stack
