@@ -1,5 +1,5 @@
 <p align="center">
-  <div height="180em" style="align:center; float:left;">Hi</div>
+  HI
   <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shskid" align = "center"/>
 </p>
 <p align="center">
