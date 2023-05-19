@@ -1,4 +1,4 @@
-<h3>안녕하세요. 도전하는것을 즐기는 개발자 서현석 입니다.</h3>
+## 안녕하세요. 도전하는것을 즐기는 개발자 서현석 입니다.
    
 [💎 지금까지 만든 작품 보러가기 ](https://link.inpock.co.kr/chucoding) <br/>
 [✍🏻 개발블로그 보러가기 ](https://chucoding.tistory.com)
