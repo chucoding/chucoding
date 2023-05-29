@@ -5,5 +5,5 @@
     
 ### 🐱 What am i doing today? 🐱 
 <a href="https://github.com/chucoding/notion2svg">
-    <img height="550em" border="1px solid black" src="https://notion2svg-chucoding.koyeb.app">
+    <img height="550em" border="1px solid black" src="https://camo.githubusercontent.com/21d0560de36f06e1a262b9f64f3edbc3caf5a7fbc63eadffb05474fabb781512/68747470733a2f2f6e6f74696f6e327376672d636875636f64696e672e6b6f7965622e617070">
 </a>
